@@ -1,5 +1,5 @@
 # Hey, I'm Elias
-(he/him) I'm a product designer at Bonusly, a startup in Boulder, where I'm working on designing apps for healthier workplaces, specifically focusing on feedback and engagement tools. I also make [asciimoji.app](https://www.asciimoji.app/) and I'm exploring web3 by drawing with code over on [Foundation](https://foundation.app/@elias). Previously I've worked in various design and art direction roles at agencies, small and large. Currently living in sunny Boulder, CO but I'm an east coast transplant originally from Virginia, although I've also lived in Atlanta & Kansas City. Super into riding bikes, keyboards, premier league football, and playing games (always Destiny + something on the Switch).
+(he/him) I'm a senior product designer at Catalog, where I design and prototype apps for early stage startups. I also make [asciimoji.app](https://www.asciimoji.app/), tinker with some generative art and three.js on [fxhash](https://www.fxhash.xyz/u/uhhlias.tez), and you can watch me stumble around in the dark on [Context](https://context.app/flexbox.eth). Previously I've worked at startups in senior IC roles as well as various design and art direction roles at agencies, small and large. Located in the teeny town of Pine, CO in the Rocky Mountains. Lets play Destiny and talk about keebs
 
 ## My values
 👂 Don't be a dick
